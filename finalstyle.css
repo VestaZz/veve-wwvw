@@ -1,0 +1,46 @@
+body {
+Color:black;
+background-color:#ADD8E6;
+padding: 8%;
+width:90%;
+}
+
+h2 {
+Border-bottom-style:solid;
+border-width: 3px;
+border-color: black;
+Font-family:"Comic Sans MS", cursive, sans-serif;
+Font-size:2.5em;
+}
+
+h3 {
+Color:#000080;
+border: 2px solid #4169E1;
+  border-radius: 12px;
+Font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+Font-size:1.2em;
+}
+
+header {
+width:100%;
+text-align:center;
+}
+
+
+
+
+nav a {
+text-decoration: none;
+border: 2px solid black;
+color:white;
+background-color: #B0C4DE;
+Font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 1.5em;
+padding:1%;
+outline-style: double;
+  outline-color: #4169E1;
+outline-width: 5px;
+}
+
+
+
